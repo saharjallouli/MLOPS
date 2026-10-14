@@ -24,9 +24,15 @@ from model_pipeline import (
 
 # Client exemple du notebook (même ordre que les colonnes de X)
 EXAMPLE = {
-    "CreditScore": 850, "Gender": 0, "Age": 43, "Tenure": 2,
-    "Balance": 125510.82, "NumOfProducts": 1, "HasCrCard": 1,
-    "IsActiveMember": 1, "EstimatedSalary": 79084.10,
+    "CreditScore": 850,
+    "Gender": 0,
+    "Age": 43,
+    "Tenure": 2,
+    "Balance": 125510.82,
+    "NumOfProducts": 1,
+    "HasCrCard": 1,
+    "IsActiveMember": 1,
+    "EstimatedSalary": 79084.10,
 }
 
 
